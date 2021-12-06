@@ -37,7 +37,5 @@ while _tryagain [0] == 'y':
         print ("Winner!")
     else:
         print ("You loss!")
-    print (_winningList)
-    print (_inputList)
     _tryagain = input ("Wanna try again? (y or n): ") 
 else: sys.exit()
