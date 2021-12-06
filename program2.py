@@ -24,6 +24,5 @@ while userNumber != number:
     elif userNumber < number:
         print ("Less than")
     userNumber = int (input ("Ranging from 0-100, which number do you think is it?: "))
-    userNumber == number
 else: print ("You nailed it!")
 
